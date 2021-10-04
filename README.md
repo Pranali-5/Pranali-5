@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Pranali Malkar, a Full Stack Developer from India.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💬 Ask me about anything, I am happy to help you🙂.
-<br/>
-<img src="https://user-images.githubusercontent.com/77038745/127829494-f06e9518-cdb2-46e2-9004-58f5e5a530f9.gif" width="1000" height="500" />
+<img src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif" width="1000" height="600" />
 
 ### 📞 How to reach at me 💁:
 - - -
