@@ -10,6 +10,7 @@
 🎨 Portfolio: loading...
 
 💼 LinkedIn: https://www.linkedin.com/in/pranali-malkar-34243916a/
+<br/>
 
 ### Tech Stack 🛠
 - - -
@@ -17,6 +18,8 @@
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
  -->
+ <br/>
+
  ### 📊 My Github Stats
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="float:left; width=50"/>
