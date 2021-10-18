@@ -7,7 +7,7 @@
 - - -
 📧 malkarpg@gmail.com
 
-🎨 Portfolio: loading...
+🎨 Portfolio: https://pranali-portfolio.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/pranali-malkar-34243916a/
 <br/>
