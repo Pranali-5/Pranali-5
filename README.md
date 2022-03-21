@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Pranali Malkar, a Full-Stack Web Developer from India.
+<!-- ### Hi there 👋, I'm Pranali Malkar, a Full-Stack Web Developer from India.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💬 Ask me about anything, I am happy to help you🙂.
 <img src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif" width="1000" height="600" />
@@ -20,8 +20,8 @@
  -->
  <br/>
 
- ### 📊 My Github Stats
-<hr/>
+<!--  ### 📊 My Github Stats -->
+<!-- <hr/>
 <div style="float:left">
 <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
@@ -29,10 +29,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranali-5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  </div>
 <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pranali-5&amp;bg_color=0D1117&amp;color=5BCDEC&amp;line=5BCDEC&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
-
-### Profile Views: 
-![Profile Views](https://komarev.com/ghpvc/?username=Pranali-5&label=PROFILE+VIEWS)
-
+ -->
+<!-- ### Profile Views:  -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Pranali-5&label=PROFILE+VIEWS)
+ -->
 <!--
 **Pranali-5/Pranali-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
