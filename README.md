@@ -1,8 +1,8 @@
  ### Hi there 👋, I'm Pranali Malkar, a Full-Stack Web Developer from India.
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💬 Ask me about anything, I am happy to help you🙂.
-<img src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif" width="1000" height="600" />
-
+<!-- - 💬 Ask me about anything, I am happy to help you🙂. -->
+<!-- <img src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif" width="1000" height="600" />
+ -->
 ### 📞 How to reach at me 💁:
 - - -
 📧 malkarpg@gmail.com
@@ -32,9 +32,10 @@
 
 ### Profile Views: 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pranali-5&label=PROFILE+VIEWS)
- 
-**Pranali-5/Pranali-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ 
+<!-- **Pranali-5/Pranali-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
