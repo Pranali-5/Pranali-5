@@ -3,7 +3,7 @@
 <!-- - 💬 Ask me about anything, I am happy to help you🙂. -->
 <!-- <img src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif" width="1000" height="600" />
  -->
-### 📞 How to reach at me 💁:
+### 💬 How to reach at me:
 - - -
 📧 malkarpg@gmail.com
 
@@ -11,7 +11,7 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/pranali-malkar-34243916a/
 <br/>
-
+<!-- 
 ### Tech Stack 🛠
 - - -
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePkXCcK_qKhDvbFD6EciAnELnCUeK4bGO5w&usqp=CAU" />
@@ -20,7 +20,7 @@
  -->
  <br/>
 
- ### 📊 My Github Stats
+<!--  ### 📊 My Github Stats
 <hr/>
 <div style="float:left">
 <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
@@ -46,3 +46,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+ 
