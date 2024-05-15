@@ -5,7 +5,7 @@
  -->
 ### 💬 How to reach at me:
 - - -
-📧 malkarpg@gmail.com
+📧 pranali.malkar09@gmail.com
 
 🎨 Portfolio: https://pranali-portfolio.vercel.app/
 
