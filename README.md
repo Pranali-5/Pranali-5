@@ -7,11 +7,12 @@
 - - -
 📧 pranali.malkar09@gmail.com
 
-🎨 Portfolio: https://pranali-portfolio.vercel.app/
+
 
 💼 LinkedIn: https://www.linkedin.com/in/pranali-malkar-34243916a/
 <br/>
 <!-- 
+🎨 Portfolio: https://pranali-portfolio.vercel.app/
 ### Tech Stack 🛠
 - - -
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePkXCcK_qKhDvbFD6EciAnELnCUeK4bGO5w&usqp=CAU" />
