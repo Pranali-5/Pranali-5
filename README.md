@@ -1,50 +1,76 @@
-<h1 align="center">Hi there 👋, I'm Pranali Malkar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pranali+Malkar;Frontend+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+</p>
+
+<h1 align="center">👋 Pranali Malkar</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🌐 Web Explorer  
+  💻 Crafting pixel-perfect web experiences | 🎨 Designing intuitive UIs | 🌐 Exploring the digital universe
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranali-malkar-34243916a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pranali-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🌟 About Me
 
-- 🔭 I’m currently working as a **Frontend Engineer**
-- 🌱 Learning **Backend (Node.js & Go)** and **Generative AI**
-- 💬 Ask me about **React, Vue, Nuxt, Tailwind CSS, TypeScript**
-- 🛠 Building pixel-perfect, responsive UIs & exploring DevOps
-- ✨ Passionate about product design, clean code & performance
-
----
-
-### 🚀 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+- 🔭 **Frontend Engineer** building responsive and dynamic web applications
+- 🌱 Diving into **Backend Development (Node.js, Go)** and **Generative AI**
+- 💬 Let's talk about **React, Vue, Nuxt, Tailwind CSS, TypeScript**, or clean code!
+- 🛠 Focused on creating **pixel-perfect UIs**, optimizing performance, and exploring **DevOps**
+- ✨ Passionate about **product design**, accessibility, and writing maintainable code
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranali-5&theme=tokyonight" width="48%" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+## 📊 My GitHub Stats
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/pranali-malkar-34243916a/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranali-5&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel)](https://pranali-portfolio.vercel.app/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranali-5&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-> “Stay hungry, stay foolish.” — Steve Jobs
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranali-malkar-34243916a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"></a>
+  <a href="https://pranali-portfolio.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="40"></a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+> *"Stay hungry, stay foolish."* — Steve Jobs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" alt="Coding GIF" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
+</p>
