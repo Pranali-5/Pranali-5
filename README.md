@@ -47,13 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranali-5&layout=compact&theme=rose_pine&hide_border=true" width="35%" alt="Top Languages" />
 </p>
 
----
-
-## 🌍 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranali-malkar-34243916a/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="36"></a>
-  <a href="https://pranali-portfolio.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="36"></a>
-</p>
-
----
