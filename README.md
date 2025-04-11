@@ -1,50 +1,50 @@
- ### Hi there 👋, I'm Pranali Malkar, a Full-Stack Web Developer from India.
-- 🌱 I’m currently learning Full Stack Web Development.
-<!-- - 💬 Ask me about anything, I am happy to help you🙂. -->
-<!-- <img src="https://upliftcorrect.com/wp-content/uploads/2021/08/55537-girl-on-computer-with-idea.gif" width="1000" height="600" />
- -->
-### 💬 How to reach at me:
-- - -
-📧 pranali.malkar09@gmail.com
+<h1 align="center">Hi there 👋, I'm Pranali Malkar</h1>
 
+<p align="center">
+  💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🌐 Web Explorer  
+</p>
 
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/pranali-malkar-34243916a/
-<br/>
-<!-- 
-🎨 Portfolio: https://pranali-portfolio.vercel.app/
-### Tech Stack 🛠
-- - -
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePkXCcK_qKhDvbFD6EciAnELnCUeK4bGO5w&usqp=CAU" />
+### 🧠 About Me
 
-<!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
- -->
- <br/>
+- 🔭 I’m currently working as a **Frontend Engineer**
+- 🌱 Learning **Backend (Node.js & Go)** and **Generative AI**
+- 💬 Ask me about **React, Vue, Nuxt, Tailwind CSS, TypeScript**
+- 🛠 Building pixel-perfect, responsive UIs & exploring DevOps
+- ✨ Passionate about product design, clean code & performance
 
-<!--  ### 📊 My Github Stats
-<hr/>
-<div style="float:left">
-<img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
-<div style="float:left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranali-5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
- </div>
-<img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pranali-5&amp;bg_color=0D1117&amp;color=5BCDEC&amp;line=5BCDEC&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
+---
 
-### Profile Views: 
-![Profile Views](https://komarev.com/ghpvc/?username=Pranali-5&label=PROFILE+VIEWS)
+### 🚀 Tech Stack
 
- 
-<!-- **Pranali-5/Pranali-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
-<!-- Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Full Stack Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
- 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranali-5&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/pranali-malkar-34243916a/)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel)](https://pranali-portfolio.vercel.app/)
+
+---
+
+> “Stay hungry, stay foolish.” — Steve Jobs
