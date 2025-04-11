@@ -40,37 +40,20 @@
 </p>
 
 ---
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranali-5&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
+## 📈 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranali-5&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&show_icons=true&theme=rose_pine&hide_border=true" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranali-5&layout=compact&theme=rose_pine&hide_border=true" width="35%" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranali-malkar-34243916a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"></a>
-  <a href="https://pranali-portfolio.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="40"></a>
+  <a href="https://www.linkedin.com/in/pranali-malkar-34243916a/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="36"></a>
+  <a href="https://pranali-portfolio.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="36"></a>
 </p>
 
 ---
-
-## 💡 Fun Fact
-
-> *"Stay hungry, stay foolish."* — Steve Jobs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" alt="Coding GIF" />
-</p>
-
-<p align="center">
-  <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
-</p>
