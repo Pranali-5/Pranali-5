@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pranali+Malkar;  + ' Frontend+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pranali+Malkar; Full Stack Web Developer" alt="Typing SVG"/>
 </p>
 
 <h1 align="center">👋 Pranali Malkar</h1>
@@ -38,6 +38,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
-
----
-
