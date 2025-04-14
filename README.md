@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pranali+Malkar;Frontend+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pranali+Malkar;  + ' Frontend+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG"/>
 </p>
 
 <h1 align="center">👋 Pranali Malkar</h1>
@@ -40,10 +40,4 @@
 </p>
 
 ---
-## 📈 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranali-5&show_icons=true&theme=rose_pine&hide_border=true" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranali-5&layout=compact&theme=rose_pine&hide_border=true" width="35%" alt="Top Languages" />
-</p>
 
