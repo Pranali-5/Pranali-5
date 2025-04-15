@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Pranali+Malkar; Full Stack Web Developer" alt="Typing SVG"/>
 </p>
-
+-->
 <h1 align="center">👋 Pranali Malkar</h1>
 
 <p align="center">
